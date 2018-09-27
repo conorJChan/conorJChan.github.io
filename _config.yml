@@ -1,17 +1,17 @@
 # Site settings
-title: "Baby Chan's Blog"
-email: eric.chan.24@gmail.com
-description: "A dark blog theme for Jekyll."
-baseurl: "/carte-noire"
-url: "https://babychan.gitlab.io"
-title_description: "A blog about Baby Chan."
+title: "Conor Chan's Blog"
+email: rafikixx@yahoo.com
+description: "Conor Chan's Blog."
+baseurl: ""
+url: "https://conorJChan.gitlab.io"
+title_description: "A blog about Conor Chan."
 title_image: "http://www.gravatar.com/avatar/5efdfcd39bcf7558d2a607040ef8bbe5"
 
 # google_analytics: ""
 disqus_account: ChanBaby
 # github_repository: https://github.com/jacobtomlinson/carte-noire
 # addthis_id: ra-513c6fa83da6ec67
-post_limit: 10
+post_limit: 25
 
 # Social usernames/URLs
 # twitter_username: _jacobtomlinson

@@ -21,13 +21,13 @@ After 14 days in the ICU, all of Conor's vital signs looked good and Conor was
 ready to come home.  
 
 ### Conor After Birth  
-![After Birth](/carte-noire/assets/2018/09 September/10/after_birth.jpg){:width='500px'}
+![After Birth](/assets/2018/09 September/10/after_birth.jpg){:width='500px'}
 
 ### Conor's Weight  
-![Weight](/carte-noire/assets/2018/09 September/10/weight.jpg){:width='500px'}
+![Weight](/assets/2018/09 September/10/weight.jpg){:width='500px'}
 
 ### Conor's Lanugo  
-![Lanugo](/carte-noire/assets/2018/09 September/10/lanugo.jpg){:width='300px'}
+![Lanugo](/assets/2018/09 September/10/lanugo.jpg){:width='300px'}
 
 ### Conor Comes Home!  
 ![Home]()
