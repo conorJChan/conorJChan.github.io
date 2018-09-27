@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baby Chan&#39;s Blog</title>
+    <description>A dark blog theme for Jekyll.</description>
+    <link>https://babychan.gitlab.io/carte-noire/</link>
+    <atom:link href="https://babychan.gitlab.io/carte-noire/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 25 Sep 2018 19:01:06 -0500</pubDate>
+    <lastBuildDate>Tue, 25 Sep 2018 19:01:06 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Introducing Conor Joseph Chan</title>
+        <description>&lt;h3 id=&quot;the-birth&quot;&gt;The Birth&lt;/h3&gt;
+&lt;p&gt;Conor Joseph Chan was born on September 6, 2018 at 9:12 pm, 2.220 kg
+(4 pounds, 14 oz), 17 in long.&lt;/p&gt;
+
+&lt;h3 id=&quot;icu&quot;&gt;ICU&lt;/h3&gt;
+&lt;p&gt;Conor was transferred to the ICU for an underdeveloped nervous system. He spent
+14 days there to grow and develop under medical observation.&lt;/p&gt;
+
+&lt;h3 id=&quot;conor-comes-home&quot;&gt;Conor Comes Home&lt;/h3&gt;
+&lt;p&gt;After 14 days in the ICU, all of Conor’s vital signs looked good and Conor was
+ready to come home.&lt;/p&gt;
+
+&lt;h3 id=&quot;conor-after-birth&quot;&gt;Conor After Birth&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/carte-noire/assets/2018/09 September/10/after_birth.jpg&quot; alt=&quot;After Birth&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conors-weight&quot;&gt;Conor’s Weight&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/carte-noire/assets/2018/09 September/10/weight.jpg&quot; alt=&quot;Weight&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conors-lanugo&quot;&gt;Conor’s Lanugo&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/carte-noire/assets/2018/09 September/10/lanugo.jpg&quot; alt=&quot;Lanugo&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conor-comes-home-1&quot;&gt;Conor Comes Home!&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;Home&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Sep 2018 00:00:00 -0500</pubDate>
+        <link>https://babychan.gitlab.io/carte-noire/birth/2018/09/25/Conor%20Joseph%20Chan/</link>
+        <guid isPermaLink="true">https://babychan.gitlab.io/carte-noire/birth/2018/09/25/Conor%20Joseph%20Chan/</guid>
+        
+        <category>birth</category>
+        
+        
+        <category>birth</category>
+        
+      </item>
+    
+  </channel>
+</rss>
