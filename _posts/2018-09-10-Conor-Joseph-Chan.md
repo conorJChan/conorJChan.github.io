@@ -5,6 +5,7 @@ date:       2018-09-25
 summary:    Conor is here!
 categories: 'birth'
 thumbnail:  heart
+comments: true
 tags:
  - birth
 ---
@@ -30,4 +31,4 @@ ready to come home.
 ![Lanugo](/assets/2018/09 September/10/lanugo.jpg){:width='300px'}
 
 ### Conor Comes Home!  
-![Home]()
+![Home](/assets/2018/09 September/22/carseat.jpg){:width='400px'}
