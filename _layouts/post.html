@@ -76,8 +76,9 @@ layout: default
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
         var d = document, s = d.createElement('script');
+        var disqus_shortname = "{{ site.disqus_shortname }}"
 
-        s.src = '//rafikixx.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.src = '//' + disqus_shortname + '.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
