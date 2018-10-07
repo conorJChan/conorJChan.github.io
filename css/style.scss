@@ -561,7 +561,7 @@ ul {
 			ul {
 				list-style-type: disc;
 			}
-			
+
             		ol {
 				list-style-type: decimal;
 			}
@@ -818,4 +818,13 @@ ul {
 		margin-top: 20px;
 		margin-bottom: 20px;
 	}
+}
+
+.thumbnail {
+    background-color: #2D2D29;
+    border: 1px solid #adc5cf;
+}
+
+.caption {
+    color: white !important;
 }

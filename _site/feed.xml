@@ -5,9 +5,88 @@
     <description>Conor Chan&#39;s Blog.</description>
     <link>https://conorJChan.gitlab.io/</link>
     <atom:link href="https://conorJChan.gitlab.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 30 Sep 2018 07:31:02 -0500</pubDate>
-    <lastBuildDate>Sun, 30 Sep 2018 07:31:02 -0500</lastBuildDate>
+    <pubDate>Sun, 07 Oct 2018 17:29:25 -0500</pubDate>
+    <lastBuildDate>Sun, 07 Oct 2018 17:29:25 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>One Month!</title>
+        <description>&lt;h3 id=&quot;one-month&quot;&gt;One Month&lt;/h3&gt;
+&lt;p&gt;Today is Conor’s one month! Here are some photos comparing him then and now.&lt;/p&gt;
+&lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/css/styles.css&quot; /&gt;
+&lt;head&gt;
+&lt;div class=&quot;container-fluid&quot;&gt;  
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-6&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;        
+                &lt;img src=&quot;/assets/2018/10 October/06/newborn1.JPG&quot; alt=&quot;newborn1&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;div class=&quot;caption&quot;&gt;
+                    &lt;p&gt;Swaddled (newborn)&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-6&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;/assets/2018/10 October/06/one_month1.jpg&quot; alt=&quot;one month&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;div class=&quot;caption&quot;&gt;
+                    &lt;p&gt;Conor&#39;s in shock (one month)&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-6&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;        
+                &lt;img src=&quot;/assets/2018/10 October/06/newborn2.JPG&quot; alt=&quot;newborn1&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;div class=&quot;caption&quot;&gt;
+                    &lt;p&gt;Chillin (newborn)&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-6&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;/assets/2018/10 October/06/one_month2.jpg&quot; alt=&quot;Boss Baby&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;div class=&quot;caption&quot;&gt;
+                    &lt;p&gt;Boss Baby (one month)&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-6&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;        
+                &lt;img src=&quot;/assets/2018/10 October/06/newborn3.JPG&quot; alt=&quot;newborn1&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;div class=&quot;caption&quot;&gt;
+                    &lt;p&gt;Eyes Open (newborn)&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-6&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;/assets/2018/10 October/06/one_month3.jpg&quot; alt=&quot;Blinging Out&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;div class=&quot;caption&quot;&gt;
+                    &lt;p&gt;Blinging Out (one month)&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/head&gt;&lt;/head&gt;
+</description>
+        <pubDate>Sat, 06 Oct 2018 00:00:00 -0500</pubDate>
+        <link>https://conorJChan.gitlab.io/comparison/2018/10/06/One-Month/</link>
+        <guid isPermaLink="true">https://conorJChan.gitlab.io/comparison/2018/10/06/One-Month/</guid>
+        
+        <category>one-month</category>
+        
+        
+        <category>comparison</category>
+        
+      </item>
     
       <item>
         <title>Introducing Conor Joseph Chan</title>
