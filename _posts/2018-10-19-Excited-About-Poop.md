@@ -22,5 +22,5 @@ We started changing Conor but he was not finished pooping. He had a second poop
 while we changed him. It went all over his swaddle, mattress, and through the
 netting of his pack-and-play.
 
-Going forward, we wait until Conor is finished before changing his diaper after  
-a poop.
+Going forward, we wait for 5 minutes after the first poop wave to make sure
+Conor is finished before changing his diaper after he poops.
