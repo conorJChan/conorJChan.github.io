@@ -13,7 +13,7 @@ tags:
 
 Conor finally pooped!
 
-This past week, Conor trouble pooping, going just once in the last 7
+This past week, Conor had trouble pooping, going just once in the last 7
 days. We were getting nervous about his lack of poop.
 
 Jasmine finished feeding Conor at 3:30 AM and his stomach was churning. We
