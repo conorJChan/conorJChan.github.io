@@ -9,6 +9,8 @@ comments: true
 tags:
  - poop  
 ---
+![Poop Meme](/assets/2018/10 October/19/poop-meme.jpg){:width='500px'}
+
 Conor finally pooped!
 
 This past week, Conor trouble pooping, going just once in the last 7
