@@ -17,8 +17,6 @@ going, he is unable to breath and begins to vomit.
 
 On the positive side, Conor laughs and smiles much more during the day.  
 
-Conor had a playdate with Sophie and Lana.  
-
 <div class = 'container-fluid'>  
     <div class = 'row'>
         <div class = 'col-md-12'>
