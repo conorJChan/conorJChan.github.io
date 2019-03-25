@@ -29,7 +29,7 @@ all the time now.
         <div class = 'col-md-12'>
             <div class = 'thumbnail'>        
                 <img src = '/assets/2019/03 March/06/six_month.JPG'
-                alt = 'gong xi fa cai' style = 'width:100%'>
+                alt = 'six month' style = 'width:100%'>
                 <div class = 'caption'>
                     <p>Conor's six month birthday</p>
                 </div>
@@ -39,7 +39,7 @@ all the time now.
         <div class = 'col-md-12'>
             <div class = 'thumbnail'>        
                 <img src = '/assets/2019/03 March/06/prone.JPG'
-                alt = 'Five Months' style = 'width:100%'>
+                alt = 'prone' style = 'width:100%'>
                 <div class = 'caption'>
                     <p>Big smile from Conor!</p>
                 </div>
