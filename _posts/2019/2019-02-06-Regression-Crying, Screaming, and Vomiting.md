@@ -6,8 +6,7 @@ summary:    Regression: Crying, Screaming, and Vomiting
 categories: 'regression'
 thumbnail:  heart
 comments: true
-tags:
- - playdate  
+tags:  
 ---
 ### Conor's Five Month & Regression    
 Conor took a step back in his fourth month. He has had an increase in crying,
