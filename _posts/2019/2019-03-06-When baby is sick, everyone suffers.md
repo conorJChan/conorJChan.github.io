@@ -31,7 +31,7 @@ all the time now.
                 <img src = '/assets/2019/03 March/06/six_month.JPG'
                 alt = 'gong xi fa cai' style = 'width:100%'>
                 <div class = 'caption'>
-                    <p>Happy Chinese New Year!</p>
+                    <p>Conor's six month birthday</p>
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@ all the time now.
                 <img src = '/assets/2019/03 March/06/prone.JPG'
                 alt = 'Five Months' style = 'width:100%'>
                 <div class = 'caption'>
-                    <p>Conor's five month birthday</p>
+                    <p>Big smile from Conor!</p>
                 </div>
             </div>
         </div>
