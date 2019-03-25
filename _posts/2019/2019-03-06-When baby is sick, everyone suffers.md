@@ -17,9 +17,9 @@ appetite and his ability to sleep through the night.
 It was scary feed Conor only Pedialyte. The usage instructions are
 strange--5 to 10 mL every 5 minutes. It's like simulating an IV drop.  
 
-After a 3 or 4 days of vomiting, Conor recovered but then he caught a cold! He
+After 3 or 4 days of vomiting, Conor recovered but then he caught a cold! He
 had a runny nose and was sneezing and coughing for two weeks. Luckily, he slowly
-recovered and could go back to daycare after he recovered from his stomach bug.  
+recovered and went back to daycare after he recovered from his stomach bug.  
 
 Conor has began to wiggle like a worm when he lies on his back. He also smiles
 all the time now.    
