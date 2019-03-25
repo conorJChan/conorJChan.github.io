@@ -14,7 +14,7 @@ bug and vomited after every feeding. We had to do laundry daily because he
 constantly needed to change outfits, sheets, and sleep suits. He lost his
 appetite and his ability to sleep through the night.  
 
-It was scary feeing to only feed Conor Pedialyte. The usage instructions are
+It was scary feed Conor only Pedialyte. The usage instructions are
 strange--5 to 10 mL every 5 minutes. It's like simulating an IV drop.  
 
 After a 3 or 4 days of vomiting, Conor recovered but then he caught a cold! He
