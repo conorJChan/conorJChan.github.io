@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: Conor sits up, smiles, wiggles, and coos     
+title:      
 date:       2019-04-06  
 summary:    
 categories: 'sit up'
@@ -8,7 +8,7 @@ thumbnail:  heart
 comments: true
 tags:  
 ---
-### Conor sits up, smiles, wiggles, and coos    
+### Conor sits up, smiles, wiggles, and talks    
 Conor has been much improved at daycare. He cries much less when awake and is
 able to take long naps. He laughs when you talk to him and wiggles when he is on
 his back. He talks baby talk throughout the day.  
