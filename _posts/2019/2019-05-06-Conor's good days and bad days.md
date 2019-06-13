@@ -1,40 +1,41 @@
 ---
 layout:     post
-title:      
-date:       2019-04-06  
-summary:    
-categories: 'sit up'
+title: Good Days and Bad Days
+date:       2019-05-06
+summary:
+categories: 'good days & bad days'
 thumbnail:  heart
 comments: true
-tags:  
+tags:
 ---
-### Conor sits up, smiles, wiggles, and talks    
-Conor has been much improved at daycare. He cries much less when awake and is
-able to take long naps. He laughs when you talk to him and wiggles when he is on
-his back. He talks baby talk throughout the day.  
+### Conor's good and bad days
+Conor has his good days and bad days. His good days are when he smiles and laughs
+and is able to nap and sleep. On these days he finishes all his food and sleeps
+through the night.
 
-Conor is able to sit up on his own. He loves chewing on his Sofie the giraffe
-toy. In fact, he eats everything in his vicinity -- toys, pillows,
-clothes, books, and body parts.
+Conor's bad days are when he is fussy, whiny, crying, and vomiting. There are
+times when he is not feeling well and has a few bad days. The hardest days are
+when he vomits in or around the crib. Everything must be swapped out including
+his outfit, sleep suit, crib sheets, crib protector, etc . . .
 
-<div class = 'container-fluid'>  
+<div class = 'container-fluid'>
     <div class = 'row'>
         <div class = 'col-md-12'>
-            <div class = 'thumbnail'>        
-                <img src = '/assets/2019/04 April/06/seven_months.jpg'
-                alt = 'seven months' = 'width:100%'>
+            <div class = 'thumbnail'>
+                <img src = '/assets/2019/05 May/06/eight_months.JPG'
+                alt = 'eight months' = 'width:100%'>
                 <div class = 'caption'>
-                    <p>Conor's seven month birthday</p>
+                    <p>Conor's eight month birthday</p>
                 </div>
             </div>
         </div>
     </div>
         <div class = 'col-md-12'>
-            <div class = 'thumbnail'>        
-                <img src = '/assets/2019/04 April/06/seven_months_eating.JPG'
-                alt = 'Seven Months Eating' style = 'width:100%'>
+            <div class = 'thumbnail'>
+                <img src = '/assets/2019/05 May/06/conor_sitting.JPG'
+                alt = 'Conor Staring' style = 'width:100%'>
                 <div class = 'caption'>
-                    <p>Doing his favorite activity --> chewing!</p>
+                    <p>The Conor stare</p>
                 </div>
             </div>
         </div>
