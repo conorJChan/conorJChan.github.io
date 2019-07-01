@@ -23,7 +23,7 @@ his outfit, sleep suit, crib sheets, crib protector, etc . . .
         <div class = 'col-md-12'>
             <div class = 'thumbnail'>
                 <img src = '/assets/2019/05 May/06/eight_months.JPG'
-                alt = 'eight months' = 'width:100%'>
+                alt = 'eight months' style = 'width:100%'>
                 <div class = 'caption'>
                     <p>Conor's eight month birthday</p>
                 </div>
