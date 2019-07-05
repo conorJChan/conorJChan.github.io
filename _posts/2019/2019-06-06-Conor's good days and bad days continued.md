@@ -33,7 +33,7 @@ baby!
     </div>
         <div class = 'col-md-12'>
             <div class = 'thumbnail'>
-                <img src = '/assets/2019/06 June/06/conor_swing.JPG'
+                <img src = '/assets/2019/06 June/06/conor_swing.jpg'
                 alt = 'Conor Swing' style = 'width:100%'>
                 <div class = 'caption'>
                     <p>Conor enjoying the swing</p>
