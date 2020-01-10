@@ -5,8 +5,8 @@
     <description>Conor Chan&#39;s Blog.</description>
     <link>https://conorJChan.gitlab.io/</link>
     <atom:link href="https://conorJChan.gitlab.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 10 Jan 2020 15:19:05 -0600</pubDate>
-    <lastBuildDate>Fri, 10 Jan 2020 15:19:05 -0600</lastBuildDate>
+    <pubDate>Fri, 10 Jan 2020 15:43:23 -0600</pubDate>
+    <lastBuildDate>Fri, 10 Jan 2020 15:43:23 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -18,6 +18,42 @@ reduced appetite.&lt;/p&gt;
 
 &lt;h3 id=&quot;one-week-until-singapore&quot;&gt;One week until Singapore!&lt;/h3&gt;
 &lt;p&gt;Less than a week before his trip to Singapore, Conor made a full recovery.&lt;/p&gt;
+
+&lt;div class=&quot;container-fluid&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;/assets/2019/12 December/06/cousins.jpeg&quot; alt=&quot;cousins&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;div class=&quot;caption&quot;&gt;
+                    &lt;p&gt;Conor with grandma and cousins Miles and Elston&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;/assets/2019/12 December/06/eating.png&quot; alt=&quot;zoo&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;div class=&quot;caption&quot;&gt;
+                    &lt;p&gt;Conor has a good appetite&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+</description>
+        <pubDate>Fri, 06 Dec 2019 00:00:00 -0600</pubDate>
+        <link>https://conorJChan.gitlab.io/roseola/2019/12/06/Roseola/</link>
+        <guid isPermaLink="true">https://conorJChan.gitlab.io/roseola/2019/12/06/Roseola/</guid>
+        
+        
+        <category>roseola</category>
+        
+      </item>
+    
+      <item>
+        <title>Zoo</title>
+        <description>&lt;h3 id=&quot;conor-visits-the-zoo&quot;&gt;Conor visits the zoo&lt;/h3&gt;
+&lt;p&gt;For Halloween, Conor dressed up in his tiger costume and went to the zoo 
+with his friends.&lt;/p&gt;
 
 &lt;div class=&quot;container-fluid&quot;&gt;
     &lt;div class=&quot;row&quot;&gt;
@@ -41,11 +77,11 @@ reduced appetite.&lt;/p&gt;
     &lt;/div&gt;
 </description>
         <pubDate>Wed, 06 Nov 2019 00:00:00 -0600</pubDate>
-        <link>https://conorJChan.gitlab.io/roseola/2019/11/06/Teething/</link>
-        <guid isPermaLink="true">https://conorJChan.gitlab.io/roseola/2019/11/06/Teething/</guid>
+        <link>https://conorJChan.gitlab.io/zoo/2019/11/06/Zoo/</link>
+        <guid isPermaLink="true">https://conorJChan.gitlab.io/zoo/2019/11/06/Zoo/</guid>
         
         
-        <category>roseola</category>
+        <category>zoo</category>
         
       </item>
     
@@ -433,46 +469,6 @@ all the time now.&lt;/p&gt;
         
         
         <category>sick</category>
-        
-      </item>
-    
-      <item>
-        <title>Conor&#39;s Regression -- Crying, Screaming, and Vomiting</title>
-        <description>&lt;h3 id=&quot;conors-five-month--regression&quot;&gt;Conor’s Five Month &amp;amp; Regression&lt;/h3&gt;
-&lt;p&gt;Conor took a step back in his fourth month. He has had an increase in crying,
-screaming, and vomiting. When we put him down for the night, he will cry
-intensely, until he turns red in the face and starts coughing. If he keeps
-going, he is unable to breath and begins to vomit.&lt;/p&gt;
-
-&lt;p&gt;On the positive side, Conor laughs and smiles much more during the day.&lt;/p&gt;
-
-&lt;div class=&quot;container-fluid&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-md-12&quot;&gt;
-            &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;/assets/2019/02 February/chinese_new_year.JPG&quot; alt=&quot;gong xi fa cai&quot; style=&quot;width:100%&quot; /&gt;
-                &lt;div class=&quot;caption&quot;&gt;
-                    &lt;p&gt;Happy Chinese New Year!&lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-        &lt;div class=&quot;col-md-12&quot;&gt;
-            &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;/assets/2019/02 February/five_months.JPG&quot; alt=&quot;Five Months&quot; style=&quot;width:100%&quot; /&gt;
-                &lt;div class=&quot;caption&quot;&gt;
-                    &lt;p&gt;Conor&#39;s five month birthday&lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-</description>
-        <pubDate>Wed, 06 Feb 2019 00:00:00 -0600</pubDate>
-        <link>https://conorJChan.gitlab.io/regression/2019/02/06/Regression-Crying,%20Screaming,%20and%20Vomiting/</link>
-        <guid isPermaLink="true">https://conorJChan.gitlab.io/regression/2019/02/06/Regression-Crying,%20Screaming,%20and%20Vomiting/</guid>
-        
-        
-        <category>regression</category>
         
       </item>
     
