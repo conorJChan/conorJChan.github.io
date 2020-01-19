@@ -9,7 +9,7 @@ comments: true
 tags:
 ---
 ### Singapore
-Conor visited Singapore over Christmast break. He attended Uncle Jonathan 
+Conor visited Singapore over Christmas break. He attended Uncle Jonathan 
 and Aunt Wei's wedding. He was reunited with his grandma and grandpa. He 
 got to meet his great grandma and great grandpa and many other family and  
 friends for the first time.  
