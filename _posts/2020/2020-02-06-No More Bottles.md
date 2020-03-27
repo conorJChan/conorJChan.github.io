@@ -27,7 +27,7 @@ question "Where's mommy?", he shruggs.
         <div class = 'col-md-12'>
             <div class = 'thumbnail'>
                 <img src = '/assets/2020/02 February/conor_cny.jpeg'
-                alt = 'wedding' style = 'width:100%'>
+                alt = 'Chinese New Year' style = 'width:100%'>
                 <div class = 'caption'>
                     <p>Red envelopes for Chinese New Year</p>
                 </div>
@@ -37,7 +37,7 @@ question "Where's mommy?", he shruggs.
         <div class = 'col-md-12'>
             <div class = 'thumbnail'>
                 <img src = '/assets/2020/02 February/conor_flowers.jpeg'
-                alt = 'durian' style = 'width:100%'>
+                alt = 'Valentines' style = 'width:100%'>
                 <div class = 'caption'>
                     <p>Valentine's day flowers and chocolates for mommy</p>
                 </div>
