@@ -5,9 +5,52 @@
     <description>Conor Chan&#39;s Blog.</description>
     <link>https://conorJChan.gitlab.io/</link>
     <atom:link href="https://conorJChan.gitlab.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 27 Mar 2020 15:29:01 -0500</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2020 15:29:01 -0500</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2020 09:28:21 -0500</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2020 09:28:21 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Conor Turns Two!</title>
+        <description>&lt;h3 id=&quot;conor-turns-two&quot;&gt;Conor Turns Two!&lt;/h3&gt;
+&lt;p&gt;Conor turned two years old! He celebrated his birthday at the park with his
+cousins, Elston and Miles. There was a bean bag toss, soccer, frisbee, bubbles,
+, and hide-and-seek. Conor loved the food and snacks. He spent the entire party
+hovering around the eating area refilling his plate with snacks, fruit, and
+other goodies.&lt;/p&gt;
+
+&lt;h3 id=&quot;abcs-and-123s&quot;&gt;ABCs and 123s&lt;/h3&gt;
+&lt;p&gt;Conor has been working on his alphabet and numbers. He’s able to sing the
+alphabet song and recite his numbers.&lt;/p&gt;
+
+&lt;div class=&quot;container-fluid&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;/assets/2020/09 September/06/outdoor_cupcake.jpg&quot; alt=&quot;Cupcake Outdoor&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;div class=&quot;caption&quot;&gt;
+                    &lt;p&gt;Enjoying My Birthday at the Park&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+        &lt;div class=&quot;col-md-12&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;/assets/2020/09 September/06/indoor_cupcake.jpg&quot; alt=&quot;Cupcake Indoor&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;div class=&quot;caption&quot;&gt;
+                    &lt;p&gt;I love cupcakes!&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+</description>
+        <pubDate>Sun, 06 Sep 2020 00:00:00 -0500</pubDate>
+        <link>https://conorJChan.gitlab.io/two/2020/09/06/Two/</link>
+        <guid isPermaLink="true">https://conorJChan.gitlab.io/two/2020/09/06/Two/</guid>
+        
+        
+        <category>two</category>
+        
+      </item>
     
       <item>
         <title>Thriving</title>
@@ -433,55 +476,6 @@ a fever. But the blisters fever went way after a few days.&lt;/p&gt;
         <category>and</category>
         
         <category>mouth</category>
-        
-      </item>
-    
-      <item>
-        <title>Good Days and Bad Days Continued</title>
-        <description>&lt;h3 id=&quot;conors-good-and-bad-days-continued&quot;&gt;Conor’s good and bad days continued&lt;/h3&gt;
-&lt;p&gt;Conor’s continuing to have his good days and bad days. His good days are when he
-finishes all his food, can sit by himself, and sleeps without waking up.&lt;/p&gt;
-
-&lt;p&gt;Conor’s bad days are when he is whiny and vomiting. He’s still having issues
-falling asleep by himself and in the some instances, vomits in the crib (around
-2 to 3 times a week).&lt;/p&gt;
-
-&lt;p&gt;Conor’s hair is filling out. He has curly hair, similar to his mom when she was a
-baby!&lt;/p&gt;
-
-&lt;div class=&quot;container-fluid&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-md-12&quot;&gt;
-            &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;/assets/2019/06 June/06/conor_nine_months.JPG&quot; alt=&quot;nine months&quot; style=&quot;width:100%&quot; /&gt;
-                &lt;div class=&quot;caption&quot;&gt;
-                    &lt;p&gt;Conor&#39;s nine month birthday&lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-        &lt;div class=&quot;col-md-12&quot;&gt;
-            &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;/assets/2019/06 June/06/conor_swing.jpg&quot; alt=&quot;Conor Swing&quot; style=&quot;width:100%&quot; /&gt;
-                &lt;div class=&quot;caption&quot;&gt;
-                    &lt;p&gt;Conor enjoying the swing&lt;/p&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-</description>
-        <pubDate>Thu, 06 Jun 2019 00:00:00 -0500</pubDate>
-        <link>https://conorJChan.gitlab.io/good/days/&/bad/2019/06/06/Conor's%20good%20days%20and%20bad%20days%20continued/</link>
-        <guid isPermaLink="true">https://conorJChan.gitlab.io/good/days/&/bad/2019/06/06/Conor's%20good%20days%20and%20bad%20days%20continued/</guid>
-        
-        
-        <category>good</category>
-        
-        <category>days</category>
-        
-        <category>&amp;</category>
-        
-        <category>bad</category>
         
       </item>
     
